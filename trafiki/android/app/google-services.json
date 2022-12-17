@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041735392988",
+    "project_id": "trafiki-caef5",
+    "storage_bucket": "trafiki-caef5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041735392988:android:7e8755003ad69afc919e19",
+        "android_client_info": {
+          "package_name": "com.example.trafiki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041735392988-12fmisb478c0336u5h1d8vdmtd5ca129.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnKaxIMTqcyX6cFqXhjRRBS3qhfyGBOZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041735392988-12fmisb478c0336u5h1d8vdmtd5ca129.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
